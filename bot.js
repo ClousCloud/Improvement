@@ -3,7 +3,7 @@ const { exec } = require('child_process');
 const fs = require('fs');
 
 const octokit = new Octokit({
-  auth: "your_github_token" // Ganti dengan GitHub Token aplikasi
+  auth: "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" // Ganti dengan GitHub Token aplikasi
 });
 
 // Repo konfigurasi
